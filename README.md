@@ -4,3 +4,18 @@ This trivia game consists of 10 questions. each with a 15 second timer that is s
 
 Wire Frame
 
+
+
+User Stories
+
+MVP
+
+1. As a player, I would like the time around that I play to have the questions be put in a random order
+2. As a player, I want to see the number I have correct/incorrect in the bottom corner of the screen.
+
+
+
+Stretch Goal
+
+1. As a stretch goal I would like tense music to be played in the background.
+2. As a stretch goal I would like a correc/incorrect sound when I click on an answer
