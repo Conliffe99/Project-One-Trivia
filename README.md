@@ -4,7 +4,7 @@ This trivia game consists of 10 questions. each with a 15 second timer that is s
 
 Wire Frame
 
-https://imgur.com/a/vqDbhDA
+![gameboard](https://imgur.com/a/vqDbhDA)
 
 
 User Stories
