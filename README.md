@@ -7,13 +7,15 @@ Wire Frame
 [gameboard](https://imgur.com/a/vqDbhDA)
 
 
-User Stories
+MVP Goals
 
-MVP
-
-1. As a player, I would like the time around that I play to have the questions be put in a random order
-2. As a player, I want to see the number I have correct/incorrect in the bottom corner of the screen.
-
+1 As a player I will hit the start button t begin the game
+2 As a player I will have one chance to choose one of the four choices
+3 As a player I will be shown visualy whether or not my answer is correct/incorrect by the screen color
+4 As a player if I do not make a selection within 15 seconds, my answer will be incorrect
+5 As a player I will hit the next button to go to the next question
+6 As a player at the end of the game if I answer 6 or more correctly the screen will be green and less than 6 the screen will be red.
+7 As a player if I want reset the game again I would click the restart button 
 
 
 Stretch Goal
